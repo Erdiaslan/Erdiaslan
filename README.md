@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Erdiaslan/Erdiaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 🚀 I’m currently working on cloud-based projects using AWS (ECS, Fargate, Lambda, CloudWatch).<br>🌱 I’m currently learning DevOps tools and cloud architecture.<br>🤝 I’m looking to collaborate on scalable backend and automation projects.<br>💬 Ask me about AWS, CI/CD, or Docker.<br>⚡ Fun fact: I enjoy building systems that run without manual intervention.
 
 
@@ -27,7 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Erdiaslan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
